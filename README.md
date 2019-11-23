@@ -23,7 +23,7 @@ Yemişim ön şartı. Gelin hepiniz. Söz, çok eğleneceğiz. (:
 
 # Programa Genel Bakış
 
-Size saatlerce Git ve GitHub'ın tarihçesini anlatmayacağız. Ama Linus Torvalds'a bir selam çakmadan, neden böyle bir araca ihtiyaç duyulduğunu anlatmadan, öncesinde ne vardı; alternatifleri şimdi neler söylemeden başlayamayız. Bu sebeple Kim 500 bin TL ister yarışmasında çıksa cevaplayabileceğiniz kadar bir genel kültürle başlayıp devamında aşağıdaki konuları farklı zamanlarda gündeme getirerek Git ve GitHub'ı uçtan uca anlatacağız. Konu başlıklarını Türkçe yazmayacağım; zira takım arkdaşlarınız bu teknolojilerden bahsederken Türkçe konuşmayacaklar. Hayatın gerçekleri ile fantazi isteklerimiz ne yazık ki birbirini tutmuyor. Ayrıca sabır eşiğiniz yıkılıp da yurtdışında çalışmaya gittiğinizde kimse sizle Türkçe konuşmayacak.
+Size saatlerce Git ve GitHub'ın tarihçesini anlatmayacağız. Ama Linus Torvalds'a bir selam çakmadan, neden böyle bir araca ihtiyaç duyulduğunu anlatmadan, öncesinde ne vardı; alternatifleri şimdi neler söylemeden başlayamayız. Bu sebeple Kim 500 bin TL ister yarışmasında çıksa cevaplayabileceğiniz kadar bir genel kültürle başlayıp devamında aşağıdaki konuları farklı zamanlarda gündeme getirerek Git ve GitHub'ı uçtan uca anlatacağız. Konu başlıklarını Türkçe yazmayacağım; zira takım arkadaşlarınız bu teknolojilerden bahsederken Türkçe konuşmayacaklar. Hayatın gerçekleri ile fantazi isteklerimiz ne yazık ki birbirini tutmuyor. Ayrıca sabır eşiğiniz yıkılıp da yurtdışında çalışmaya gittiğinizde kimse sizle Türkçe konuşmayacak.
 
 # Önemli Not
 
@@ -87,6 +87,22 @@ Size saatlerce Git ve GitHub'ın tarihçesini anlatmayacağız. Ama Linus Torval
 * git archive
 * git submodule
 
+### Patching
+* git cherry-pick
+* git rebase
+* git revert
+
+### Others
+* Fork
+* Pull Request
+* Local History
+* Issues
+* GitHub Settings
+* Maven, Jitpack etc.
+* .gitIgnore
+* Branch & Naming Best Practices
+* Summary
+
 ### Inspection and Comparison
 * git show
 * git shortlog
@@ -96,11 +112,6 @@ Size saatlerce Git ve GitHub'ın tarihçesini anlatmayacağız. Ama Linus Torval
 * git bisect
 * git blame
 * git grep
-
-### Patching
-* git cherry-pick
-* git rebase
-* git revert
 
 ### Email
 * git apply
@@ -119,17 +130,6 @@ Size saatlerce Git ve GitHub'ın tarihçesini anlatmayacağız. Ama Linus Torval
 * git fsck
 * git reflog
 * git filter-branch
-
-### Others
-* Fork
-* Pull Request
-* Local History
-* Issues
-* GitHub Settings
-* Maven, Jitpack etc.
-* .gitIgnore
-* Branch & Naming Best Practices
-* Summary
 
 ***
 
@@ -167,7 +167,7 @@ Mesai dışı zamanlarımda ise gönüllü ve/veya ücretsiz eğitimlerle sosyal
 
 [![Twitch](https://github.com/CodemyLive/Git-GitHub-Syllabus/blob/master/assets/ic_twitch.png)](https://www.twitch.tv/Codemy)
 [![Youtube](https://github.com/CodemyLive/Git-GitHub-Syllabus/blob/master/assets/ic_youtube.png)](https://www.youtube.com/channel/UC7TQyu2rmAPzVNIF9nR176w)
-
+[![Medium](https://github.com/CodemyLive/Git-GitHub-Syllabus/blob/master/assets/ic_medium.png)](https://Codemy.Live)
 [![Discord](https://github.com/CodemyLive/Git-GitHub-Syllabus/blob/master/assets/ic_discord.png)](https://discord.gg/nDTD4TQ)
 
 [![Twitter](https://github.com/CodemyLive/Git-GitHub-Syllabus/blob/master/assets/ic_twitter.png)](https://twitter.com/CodemyLive)
